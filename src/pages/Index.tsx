@@ -164,7 +164,7 @@ const Index = () => {
               Sua casa em <br /> <span className="text-slate-200">Boas Mãos.</span>
             </h1>
             <p className="font-['Inter'] text-lg text-slate-500 mb-12 max-w-md leading-relaxed font-medium">
-              Especialistas em <span className="font-bold border-b-2" style={{ borderColor: colors.urgency, color: colors.urgency }}>Sistemas de Gás</span> e manutenção técnica residencial de alto padrão.
+              Especialistas em <span className="font-bold border-b-2" style={{ borderColor: colors.urgency, color: colors.urgency }}>Sistemas de Gás</span> e manutenção técnica residencial, predial e comercial de alto padrão.
             </p>
             <div className="flex flex-wrap gap-5 font-['Sora']">
               <a href={LINK_GAS} className="text-white px-10 py-5 rounded-full font-extrabold text-sm hover:-translate-y-1 transition-all shadow-xl uppercase tracking-widest" style={{ backgroundColor: colors.urgency }}>Setor de Gás</a>
