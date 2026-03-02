@@ -58,7 +58,7 @@ const services = [
   { 
     icon: Wrench, 
     title: "Manutenção Técnica", 
-    desc: "Laudos técnicos e revisões preventivas para condomínios e residências.", 
+    desc: "Laudos técnicos e revisões preventivas para comércios, condomínios e residências.", 
     images: ["/tecnico.jpeg", "/tecnico2.jpeg","/tecnico3.jpeg","/tecnico4.jpeg","/tecnico5.jpeg","/tecnico6.jpeg"],
     isGas: false 
   },
