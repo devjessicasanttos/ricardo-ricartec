@@ -44,7 +44,7 @@ const services = [
   { 
     icon: Tv, 
     title: "Suportes e TVs", 
-    desc: "Fixação técnica em qualquer superfície com alinhamento a laser e acabamento premium.", 
+    desc: "Fixação técnica em qualquer superfície com alinhamento e acabamento premium.", 
     images: ["/tv1.jpeg", "/tv2.jpeg","/tv3.jpeg","/tv4.jpeg","/tv5.jpeg","/tv6.jpeg"],
     isGas: false 
   },
