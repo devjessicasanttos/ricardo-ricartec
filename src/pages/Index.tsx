@@ -182,7 +182,7 @@ const Index = () => {
       <section id="servicos" className="py-28">
         <div className="container px-6">
           <div className="text-center mb-20">
-            <h2 className="font-['Sora'] text-4xl md:text-5xl font-extrabold mb-6 uppercase tracking-tighter" style={{ color: colors.primary }}>Serviços Executados</h2>
+            <h2 className="font-['Sora'] text-4xl md:text-5xl font-extrabold mb-6 uppercase tracking-tighter" style={{ color: colors.primary }}>Serviços</h2>
             <div className="h-1 w-20 mx-auto rounded-full" style={{ backgroundColor: colors.accent }}></div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
