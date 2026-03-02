@@ -24,7 +24,7 @@ const services = [
     icon: Flame, 
     title: "Instalação de Gás", 
     desc: "Instalação técnica de fogão, aquecedores e redes de gás com teste de estanqueidade.", 
-    images: ["/fogao1.jpeg", "/fogao2.jpeg","/fogao.jpeg", "/fogao3.jpeg", "/inst.jpeg", "/inst2.jpeg"], 
+    images: ["/fogao1.jpeg", "/fogao2.jpeg","/fogao3.jpeg", "/fogao4.jpeg","/fogao5.jpeg","/fogao6.jpeg","/fogao7.jpeg","/inst.jpeg", "/inst2.jpeg"], 
     isGas: true 
   },
   { 
@@ -52,7 +52,7 @@ const services = [
     icon: Hammer, 
     title: "Reparos Gerais", 
     desc: "Manutenção completa de itens domésticos: cortinas, luminárias e reparos hidráulicos.", 
-    images: ["/reparo1.jpeg", "/reparo2.jpeg","/repar3.jpeg","/reparo4.jpeg","/reparo5.jpeg","/reparo6.jpeg","/reparo7.jpeg"],
+    images: ["/reparo2.jpeg", "/reparo1.jpeg","/reparo3.jpeg","/reparo4.jpeg","/reparo5.jpeg","/reparo6.jpeg","/reparo7.jpeg"],
     isGas: false 
   },
   { 
