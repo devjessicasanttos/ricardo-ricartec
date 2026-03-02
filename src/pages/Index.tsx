@@ -168,7 +168,7 @@ const Index = () => {
             </p>
             <div className="flex flex-wrap gap-5 font-['Sora']">
               <a href={LINK_GAS} className="text-white px-10 py-5 rounded-full font-extrabold text-sm hover:-translate-y-1 transition-all shadow-xl uppercase tracking-widest" style={{ backgroundColor: colors.urgency }}>Serviços de gás</a>
-              <a href="#servicos" className="px-10 py-5 rounded-full font-extrabold text-sm hover:bg-slate-50 transition-all uppercase tracking-widest border border-slate-200" style={{ color: colors.primary }}>Nossos Serviços</a>
+              <a href="#servicos" className="px-10 py-5 rounded-full font-extrabold text-sm hover:bg-slate-50 transition-all uppercase tracking-widest border border-slate-200" style={{ color: colors.primary }}>Outros Serviços</a>
             </div>
           </div>
           <div className="relative">
