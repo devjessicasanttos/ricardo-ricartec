@@ -167,7 +167,7 @@ const Index = () => {
               Especialistas em <span className="font-bold border-b-2" style={{ borderColor: colors.urgency, color: colors.urgency }}>Sistemas de Gás</span> e Manutenção Técnica de Alto Padrão para Residências, Prédios e Comércios.
             </p>
             <div className="flex flex-wrap gap-5 font-['Sora']">
-              <a href={LINK_GAS} className="text-white px-10 py-5 rounded-full font-extrabold text-sm hover:-translate-y-1 transition-all shadow-xl uppercase tracking-widest" style={{ backgroundColor: colors.urgency }}>Seriços de gás</a>
+              <a href={LINK_GAS} className="text-white px-10 py-5 rounded-full font-extrabold text-sm hover:-translate-y-1 transition-all shadow-xl uppercase tracking-widest" style={{ backgroundColor: colors.urgency }}>Serviços de gás</a>
               <a href="#servicos" className="px-10 py-5 rounded-full font-extrabold text-sm hover:bg-slate-50 transition-all uppercase tracking-widest border border-slate-200" style={{ color: colors.primary }}>Nossos Serviços</a>
             </div>
           </div>
