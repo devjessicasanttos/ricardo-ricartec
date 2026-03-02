@@ -24,42 +24,42 @@ const services = [
     icon: Flame, 
     title: "Instalação de Gás", 
     desc: "Instalação técnica de fogão, aquecedores e redes de gás com teste de estanqueidade.", 
-    images: ["/fogao1.jpeg", "/fogao2.jpeg", "/inst.jpeg", "/inst2.jpeg"], 
+    images: ["/fogao1.jpeg", "/fogao2.jpeg","/fogao.jpeg", "/fogao3.jpeg", "/inst.jpeg", "/inst2.jpeg"], 
     isGas: true 
   },
   { 
     icon: Search, 
     title: "Detecção de Vazamento", 
     desc: "Localização precisa de vazamentos com equipamentos de ultrassom e reparo imediato.", 
-    images: ["/vazamento3.jpeg", "/vazamento2.jpeg", "/videovazamento.mp4"],
+    images: ["/vazamento1.jpeg","/vazamento2.jpeg","/vazamento3.jpeg","/vazamento4.jpeg", "/vazamento5.jpeg", "/videovazamento.mp4"],
     isGas: true 
   },
   { 
     icon: Thermometer, 
     title: "Conversão para Gás", 
     desc: "Adaptação de equipamentos para Gás Natural (GN) ou GLP com total segurança.", 
-    images: ["/conversao1.jpeg", "/conversao2.jpeg"],
+    images: ["/conversao1.jpeg", "/conversao2.jpeg","/conversao3.jpeg","/conversao4.jpeg","/conversao5.jpeg"],
     isGas: true 
   },
   { 
     icon: Tv, 
     title: "Suportes e TVs", 
     desc: "Fixação técnica em qualquer superfície com alinhamento a laser e acabamento premium.", 
-    images: ["/tv1.jpeg", "/tv2.jpeg"],
+    images: ["/tv1.jpeg", "/tv2.jpeg","/tv3.jpeg","/tv4.jpeg","/tv5.jpeg","/tv6.jpeg"],
     isGas: false 
   },
   { 
     icon: Hammer, 
     title: "Reparos Gerais", 
     desc: "Manutenção completa de itens domésticos: cortinas, luminárias e reparos hidráulicos.", 
-    images: ["/reparo1.jpeg", "/reparo2.jpeg"],
+    images: ["/reparo1.jpeg", "/reparo2.jpeg","/repar3.jpeg","/reparo4.jpeg","/reparo5.jpeg","/reparo6.jpeg","/reparo7.jpeg"],
     isGas: false 
   },
   { 
     icon: Wrench, 
     title: "Manutenção Técnica", 
     desc: "Laudos técnicos e revisões preventivas para condomínios e residências.", 
-    images: ["/tecnico.jpeg", "/tecnico2.jpeg"],
+    images: ["/tecnico.jpeg", "/tecnico2.jpeg","/tecnico3.jpeg","/tecnico4.jpeg","/tecnico5.jpeg","/tecnico6.jpeg"],
     isGas: false 
   },
 ];
